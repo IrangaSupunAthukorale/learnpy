@@ -1,4 +1,0 @@
-learnpy
-=======
-
-Learning Python
